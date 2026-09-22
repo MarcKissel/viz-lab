@@ -6,12 +6,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-NOTE THIS HAS SOME ANSEWERS ALREADY
-
 # Making plots with ggplot package
 
-
->
 > Rather than a normal handout/lab this one tells a story and has you learning ggplot while you do so. The reading here: <https://r4ds.had.co.nz/data-visualisation.html> can help you doing this project. If you need more background on how ggplot works check out chpt 3 of <https://socviz.co/makeplot.html#makeplot> "Data Visualization"
 >
 > You might not know how to do the things being asked for right away. that is fine and expected. What I want you to learn is how to *find the answers* rather than what the answer is. In other words, I am more concerned with the process than the result. But if you are getting frustrated let me know.
@@ -318,4 +314,3 @@ she wants the whole dataset sent to her so she can take a look at it herself. yo
 ```
 
 ### 
-
